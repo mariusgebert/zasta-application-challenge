@@ -1,4 +1,4 @@
-# Zasta Codibng Challenge
+# Zasta Coding Challenge
 
 ## Additional Information
 
